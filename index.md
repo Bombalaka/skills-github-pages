@@ -19,8 +19,6 @@ GitHub Repo: View Project
 
 ## 🎮 Santa’s Magic Quest (Console Game)
 
-![Game Screenshot](./assets/santa-game-screenshot.png)
-
 Description: A fun console-based game where players help Santa find stolen magic balls.
 
 Tech Stack: C#, LiteDB (planned integration)
